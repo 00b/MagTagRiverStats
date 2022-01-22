@@ -21,3 +21,20 @@ Some Parameters:
 `convertTemptoF = False`
 
 `convertTemptoF = True`
+
+Requires the following fonts in /fonts:
+- Arial-Bold-12.pcf
+- Arial-12.bdf
+
+Requires the following libraries in /lib:
+- adafruit_magtag
+- adafruit_portalbase
+- adafruit_io
+- adafruit_display_text
+- adafruit_bitmap_font
+- adafruit_datetime
+- adafruit_fakerequests
+- adafruit_pixelbuf
+- adafruit_requests
+- neopixel
+- simpleio
